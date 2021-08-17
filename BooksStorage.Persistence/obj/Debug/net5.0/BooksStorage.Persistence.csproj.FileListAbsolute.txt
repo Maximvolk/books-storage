@@ -1,0 +1,17 @@
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Persistence.deps.json
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Persistence.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/ref/BooksStorage.Persistence.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Persistence.pdb
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.csprojAssemblyReference.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.AssemblyInfoInputs.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.AssemblyInfo.cs
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.csproj.CoreCompileInputs.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/ref/BooksStorage.Persistence.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.pdb
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Common.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Core.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Core.pdb
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/bin/Debug/net5.0/BooksStorage.Common.pdb
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Persistence/obj/Debug/net5.0/BooksStorage.Persistence.csproj.CopyComplete

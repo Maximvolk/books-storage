@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ypukATmE6fWn2jBuhSivUJUhQe2hmgUGml/qZxcPx5fwtnRgDNaI80WaezoRIT+h3tLR1yLnsD43FUqedpEiA==",
+  "success": true,
+  "projectFilePath": "/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Core/BooksStorage.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/maximvolk/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/maximvolk/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/maximvolk/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

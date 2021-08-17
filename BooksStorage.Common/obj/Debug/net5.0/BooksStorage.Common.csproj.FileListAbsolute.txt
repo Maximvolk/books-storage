@@ -1,0 +1,12 @@
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.csprojAssemblyReference.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.AssemblyInfoInputs.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.AssemblyInfo.cs
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.csproj.CoreCompileInputs.cache
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/bin/Debug/net5.0/BooksStorage.Common.deps.json
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/bin/Debug/net5.0/BooksStorage.Common.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/bin/Debug/net5.0/ref/BooksStorage.Common.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/bin/Debug/net5.0/BooksStorage.Common.pdb
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/ref/BooksStorage.Common.dll
+/Users/maximvolk/Prog/dotnet/books-storage/BooksStorage.Common/obj/Debug/net5.0/BooksStorage.Common.pdb
